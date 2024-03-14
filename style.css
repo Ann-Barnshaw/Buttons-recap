@@ -103,3 +103,6 @@ transition: background-color 0.15s;
     background-color: rgb(108, 117, 125);
     color: rgb(255,255,255);
 }
+.bootstrap-btn2:hover a{
+    color: rgb(255,255,255);
+}
