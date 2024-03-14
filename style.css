@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    /* text-align: center; */
+}
+.uber-btn {
+padding: 15px;
+width: 130px;
+height: 45px;
+background-color: black;
+box-sizing: border-box;
+margin-top: 12px;
+border: none;
+}
+.btn-container {
+    border: 2px solid whitesmoke;
+    width: 180px;
+    height: 70px;
+    text-align: center;
+    margin: 50px 0px;
+}
+.uber-btn a {
+    text-decoration: none;
+    color: white;
+}
+.uber-btn a:hover {
+    transition: 1s;
+    font-weight: bold;
+    cursor: pointer;
+    opacity: 0.8;
+}
+.uber-container {
+    margin: 50px;
+}
+.amazon-container {
+    margin: 50px;
+}
+.amazon-cart {
+    margin-top: 50px;
+    width: 255px;
+    height: 40px;
+    border: 2px solid rgb(255, 216, 20);
+    background-color: rgb(255, 216, 20);
+    border-radius: 25px;
+}
+.amazon-cart a {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+.amazon-cart a:hover {
+    cursor: pointer;
+    opacity: 0.8;
+    transition: 1.5s;
+}
+.bootstrap-container {
+    margin: 50px;
+}
+.bootstrap-btn1 {
+width: 130px;
+height: 50px;
+margin-right: 15px;
+background-color: rgb(121, 82, 179);
+border: 1px solid rgb(121, 82, 179);
+border-radius: 4px;
+transition: background-color 0.15s;
+}
+.bootstrap-btn2 {
+    width: 110px;
+    height: 50px;
+    border: 1px solid rgb(108, 117, 125);
+    color: rgb(108, 117, 125);
+}
+.bootstrap-heading {
+    margin-bottom: 30px;
+}
+.bootstrap-btn1 a {
+    text-decoration: none;
+    color: white;
+}
+.bootstrap-btn2 a {
+    text-decoration: none;
+    color: rgb(108, 117, 125);
+}
+.bootstrap-btn1 a:hover {
+    cursor: pointer;
+    font-weight: bolder;
+}
+.bootstrap-btn1:hover {
+    background-color: rgb(99, 60, 156);
+}
+.bootstrap-btn2 a:hover {
+    cursor: pointer;
+    font-weight: bolder;
+    color: white;
+}
+.bootstrap-btn2:hover  {
+    background-color: rgb(108, 117, 125);
+    color: rgb(255,255,255);
+}
